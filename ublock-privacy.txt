@@ -30,3 +30,5 @@ b.grvcdn.com
 secure-api.gravity.com
 b-ssl.grvcdn.com
 pubexchange.com
+salemove.com
+logrocket.com
