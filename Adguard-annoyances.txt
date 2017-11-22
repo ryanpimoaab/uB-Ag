@@ -39,6 +39,7 @@ golem.de
 trimay.ru
 i.hizliresim.com
 s3.amazonaws.com
+adserver.xpanama.net
 coincodex.com
 coincodex.com
 coincodex.com
