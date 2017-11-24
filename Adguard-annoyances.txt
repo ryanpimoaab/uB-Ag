@@ -159,6 +159,7 @@ volga.lutsk.ua
 webgid.info
 zato26.org
 2app.lk
+m.faz.net
 klavyer.com
 dogruhaber.com.tr
 rueconomics.ru
@@ -310,6 +311,8 @@ serialuk.net
 plista.com
 cvmarket.lv
 widgets.digitalmediacommunications.com
+vuukle.com
+vuukle.com
 care2.com
 tracdelight.com
 widgets.stackcommerce.com
