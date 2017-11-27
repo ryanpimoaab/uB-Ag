@@ -332,6 +332,7 @@ sge-chat.skorpik.ru
 smartsuppchat.com
 tuttosportweb.com
 xatech.com
+js.driftt.com
 embed.tawk.to
 static.olark.com
 cdn.callbackkiller.com
