@@ -159,6 +159,8 @@ volga.lutsk.ua
 webgid.info
 zato26.org
 2app.lk
+superfb.com
+superfb.com
 m.faz.net
 klavyer.com
 dogruhaber.com.tr
@@ -173,6 +175,7 @@ s.livelib.ru
 turkiyecocuk.com.tr
 unleashedprepaids.com
 vizefinalsorupaylasimi.com
+widget.privy.com
 popup.wisepops.com
 lakiff.ru
 falan.ru
@@ -194,6 +197,7 @@ mailganer.com
 mailget.net
 optnmnstr.com
 static.popmechanic.ru
+ubembed.com
 freiepresse.de
 popup*.lifterapps.com
 nation-news.ru
