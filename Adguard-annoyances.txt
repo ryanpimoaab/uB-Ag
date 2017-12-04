@@ -39,6 +39,7 @@ golem.de
 trimay.ru
 i.hizliresim.com
 s3.amazonaws.com
+raw.senmanga.com
 o365info.com
 adserver.xpanama.net
 coincodex.com
@@ -176,6 +177,8 @@ s.livelib.ru
 turkiyecocuk.com.tr
 unleashedprepaids.com
 vizefinalsorupaylasimi.com
+kinhenathow.ru
+labuza.ru
 widget.privy.com
 popup.wisepops.com
 lakiff.ru
