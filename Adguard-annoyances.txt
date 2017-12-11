@@ -217,6 +217,7 @@ sud.ua
 turkusozu.com
 ufatime.ru
 washingtonpost.com
+iopushtech.com
 widget.intercom.io
 pushpad.xyz
 gagwebapi.com
@@ -296,6 +297,7 @@ videogamesblogger.com
 ð¼ð²ð´.ñ€ñ„
 cdn.web.tv
 serialuk.net
+dl.metabar.ru
 plista.com
 cvmarket.lv
 widgets.digitalmediacommunications.com
