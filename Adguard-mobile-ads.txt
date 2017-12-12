@@ -22,6 +22,7 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+adn.insight.ucweb.com
 us.3zs0.date
 tkmftc.aotter.net
 d32z5ni8t5127x.cloudfront.net
@@ -974,6 +975,8 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+pps-log.op-mobile.opera.com
+event.allnews.uodoo.com
 tktracker.aotter.net
 tkrecorder.aotter.net
 android.bugly.qq.com
