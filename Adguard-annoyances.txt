@@ -37,6 +37,7 @@ golem.de
 trimay.ru
 i.hizliresim.com
 s3.amazonaws.com
+copperchickens.com
 raw.senmanga.com
 o365info.com
 adserver.xpanama.net
@@ -218,6 +219,7 @@ sud.ua
 turkusozu.com
 ufatime.ru
 washingtonpost.com
+duplichecker.com
 push.maribacaberita.com
 iopushtech.com
 widget.intercom.io
